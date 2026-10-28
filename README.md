@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Frigate NVR is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://frigate.video/
+Frigate NVR provides an open source network video recorder (NVR) that uses modern AI object detection to monitor security cameras. It integrates with popular camera platforms, offers a web UI, and supports real‑time alerts, recordings, and customizable zones. The project is community‑driven, with extensive documentation, Docker deployment options, and active development aimed at simplifying video surveillance for homes and businesses.
+
+**Areas:** Company · Video · Surveillance · OpenSource · AI
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://frigate.video/)
+- [Documentation](https://docs.frigate.video)
+- [API reference](https://docs.frigate.video/configuration/advanced/reference)
+- [Changelog](https://github.com/blakeblackshear/frigate/releases)
+- [GitHub](https://github.com/blakeblackshear/frigate)
+
+**APIs profiled:** 2
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/frigate/](https://apis.io/providers/frigate/).
